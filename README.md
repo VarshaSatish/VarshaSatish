@@ -27,6 +27,7 @@
 
 🔎 Looking for: GenAI/ML Engineering opportunities
 
+⁉ You can ask me any question related to my work experience or skill set here : https://huggingface.co/spaces/Varsha932/career_conversation
 
 
 <br />
