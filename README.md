@@ -3,17 +3,16 @@
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=000000&width=435&lines=About+Me%3A">
 </picture>
 
-
 ### Hi there, I am Varsha 👋
 
-- I am a Machine Learning engineer with a strong foundation in deep learning, large language models (LLMs), self-supervised and semi-supervised learning 
-- I hold a Master’s in Biomedical Engineering from UW-Madison and a Master’s in Electrical Engineering from IIT Bombay
-- At Amazon, as Applied Scientist, I optimised transformer-based multilingual models for low-latency, scalable intent classification across Alexa platforms
-- At nference, as Data Scientist, I built encoder-decoder and YOLOv5-based models for tissue localisation and detection in histopathology images, enabling ML-driven precision medicine
-- I have co-authored peer-reviewed publications in IEEE biomedical imaging conferences (ISBI, BIBE), focusing on contrastive learning, label noise robustness, and self-supervised learning for medical image analysis
-- My expertise spans contrastive learning, representation learning, and optimization techniques for training robust and efficient models.
+📎 I am a Machine Learning engineer with a strong foundation in deep learning, large language models (LLMs), self-supervised and semi-supervised learning 
+📚 I hold a Master’s in Biomedical Engineering from UW-Madison and a Master’s in Electrical Engineering from IIT Bombay
+💻 At Amazon, as Applied Scientist, I optimised transformer-based multilingual models for low-latency, scalable intent classification across Alexa platforms
+💻 At nference, as Data Scientist, I built encoder-decoder and YOLOv5-based models for tissue localisation and detection in histopathology images, enabling ML-driven precision medicine
+🔖 I have co-authored peer-reviewed publications in IEEE biomedical imaging conferences (ISBI, BIBE), focusing on contrastive learning, label noise robustness, and self-supervised learning for medical image analysis
+📊 My expertise spans contrastive learning, representation learning, and optimization techniques for training robust and efficient models.
 
-- Looking for: GenAI/ML Engineering opportunities
+🔎 Looking for: GenAI/ML Engineering opportunities
 
 > <div display="flex">
 >  <a href="https://varshasatish.github.io/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-4EAA25?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
