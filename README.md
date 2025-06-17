@@ -1,3 +1,9 @@
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=F7F7F7&width=435&lines=About+Me%3A"/>
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=4000&pause=1500&color=000000&width=435&lines=About+Me%3A">
+</picture>
+
+
 ### Hi there, I am Varsha 👋
 
 - I am a Machine Learning engineer with a strong foundation in deep learning, large language models (LLMs), self-supervised and semi-supervised learning 
@@ -10,8 +16,8 @@
 - Looking for: GenAI/ML Engineering opportunities.
 
 > <div display="flex">
->  <a href="https://varshasatish.github.io/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-001100?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
->  <a href="https://scholar.google.com/citations?user=googlescholar-id&user=qJVeaUUAAAAJ" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/Google Scholar-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Google Scholar"/></a>
+>  <a href="https://varshasatish.github.io/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-FF4B4B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
+>  <a href="https://scholar.google.com/citations?user=googlescholar-id&user=qJVeaUUAAAAJ" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/Google Scholar-1a5276?style=for-the-badge&logo=medium&logoColor=white" alt="Google Scholar"/></a>
 >  <a href="https://www.linkedin.com/in/varsha-satish/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 >  <a href="https://github.com//varshasatish" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 
