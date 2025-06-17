@@ -27,7 +27,7 @@
 
 🔎 Looking for: GenAI/ML Engineering opportunities
 
-⁉ You can ask me any question related to my work experience or skill set here : 
+💬 You can ask me any question related to my work experience or skill set here : 
 > <a href="https://huggingface.co/spaces/Varsha932/career_conversation" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/Questions-4EAA25?style=for-the-badge&logo=questions&logoColor=white" alt="Questions?"/></a>
 
 
