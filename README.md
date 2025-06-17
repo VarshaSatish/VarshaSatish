@@ -47,8 +47,8 @@
   <img src="https://img.shields.io/badge/Deep Learning-28b463?style=for-the-badge&logo=githubactions&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/LLMs-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="LLMs"/>
   <img src="https://img.shields.io/badge/Agentic AI-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/Image Processing-F05032?style=for-the-badge&logo=mathworks&logoColor=white" alt="Image Processing"/>
-  <img src="https://img.shields.io/badge/Contrastive Learning-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Contrastive Learning"/>
+  <img src="https://img.shields.io/badge/Image Processing-F05032?style=for-the-badge&logo=numpy&logoColor=white" alt="Image Processing"/>
+  <img src="https://img.shields.io/badge/Contrastive Learning-0076A8?style=for-the-badge&logo=numpy&logoColor=white" alt="Contrastive Learning"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/MatLab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MatLab"/>
-  <img src="https://img.shields.io/badge/Linux-F05032?style=for-the-badge&logo=mathworks&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Linux-F05032?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </div>
 
 
