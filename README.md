@@ -8,12 +8,12 @@
 
 - I am a Machine Learning engineer with a strong foundation in deep learning, large language models (LLMs), self-supervised and semi-supervised learning 
 - I hold a Master’s in Biomedical Engineering from UW-Madison and a Master’s in Electrical Engineering from IIT Bombay
-- My expertise spans contrastive learning, representation learning, and optimization techniques for training robust and efficient models.
 - At Amazon, as Applied Scientist, I optimised transformer-based multilingual models for low-latency, scalable intent classification across Alexa platforms
 - At nference, as Data Scientist, I built encoder-decoder and YOLOv5-based models for tissue localisation and detection in histopathology images, enabling ML-driven precision medicine
 - I have co-authored peer-reviewed publications in IEEE biomedical imaging conferences (ISBI, BIBE), focusing on contrastive learning, label noise robustness, and self-supervised learning for medical image analysis
+- My expertise spans contrastive learning, representation learning, and optimization techniques for training robust and efficient models.
 
-- Looking for: GenAI/ML Engineering opportunities.
+- Looking for: GenAI/ML Engineering opportunities
 
 > <div display="flex">
 >  <a href="https://varshasatish.github.io/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-4EAA25?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/OpenCV-eb984e?style=for-the-badge&logo=opencv%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/MatLab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MatLab"/>
   <img src="https://img.shields.io/badge/Linux-F05032?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
 </div>
