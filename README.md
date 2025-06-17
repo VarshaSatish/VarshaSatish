@@ -16,7 +16,7 @@
 - Looking for: GenAI/ML Engineering opportunities.
 
 > <div display="flex">
->  <a href="https://varshasatish.github.io/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-FF4B4B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
+>  <a href="https://varshasatish.github.io/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-c39bd3?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
 >  <a href="https://scholar.google.com/citations?user=googlescholar-id&user=qJVeaUUAAAAJ" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/Google Scholar-1a5276?style=for-the-badge&logo=medium&logoColor=white" alt="Google Scholar"/></a>
 >  <a href="https://www.linkedin.com/in/varsha-satish/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 >  <a href="https://github.com//varshasatish" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/NumPy-0884ea0?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
@@ -58,9 +58,9 @@
   <img src="https://img.shields.io/badge/MatLab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MatLab"/>
   <img src="https://img.shields.io/badge/Linux-F05032?style=for-the-badge&logo=mathworks&logoColor=white" alt="Linux"/>
   <img src="https://img.shields.io/badge/Machine Learning-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep Learning%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Deep Learning-28b463?style=for-the-badge&logo=githubactions&logoColor=white" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/LLMs-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/Agentic AI-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Agentoc AI"/>
+  <img src="https://img.shields.io/badge/Agentic AI-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Agentic AI"/>
 </div>
 
 
