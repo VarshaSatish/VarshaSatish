@@ -6,7 +6,7 @@
 > <div display="flex">
 >  <a href="https://varshasatish.github.io/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/website-4EAA25?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website"/></a>
 >  <a href="https://scholar.google.com/citations?user=googlescholar-id&user=qJVeaUUAAAAJ" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/Google Scholar-1a5276?style=for-the-badge&logo=GoogleScholar&logoColor=white" alt="Google Scholar"/></a>
->  <a href="https://www.linkedin.com/in/varsha-satish/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+>  <a href="https://www.linkedin.com/in/varsha-satish/" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 >  <a href="https://github.com//varshasatish" target="_blank" rel="noopener noreferrer" > <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 
 </div>
