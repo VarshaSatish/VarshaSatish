@@ -23,7 +23,7 @@
 
 🔖 I have co-authored peer-reviewed publications in IEEE biomedical imaging conferences (ISBI, BIBE), focusing on contrastive learning, label noise robustness, and self-supervised learning for medical image analysis
 
-📊 My expertise spans contrastive learning, representation learning, and optimization techniques for training robust and efficient models.
+📊 My expertise spans contrastive learning, representation learning, and optimization techniques for training robust and efficient models
 
 🔎 Looking for: GenAI/ML Engineering opportunities
 
